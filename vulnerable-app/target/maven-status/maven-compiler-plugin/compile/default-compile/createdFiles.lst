@@ -1,0 +1,6 @@
+com/example/vulnerable/XSSVulnerability.class
+com/example/vulnerable/DataExposureVulnerability.class
+com/example/vulnerable/PathTraversalVulnerability.class
+com/example/vulnerable/CryptographyVulnerabilities.class
+com/example/vulnerable/Application.class
+com/example/vulnerable/SQLInjectionVulnerability.class

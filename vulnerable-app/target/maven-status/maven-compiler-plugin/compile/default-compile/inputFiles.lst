@@ -1,0 +1,6 @@
+/Users/shaid/Library/CloudStorage/OneDrive-BlackDuckSoftware/Desktop/Altair/Acceptance/POLDELIVER-2866_Fail_PR/test_data/vulnerable-app/src/main/java/com/example/vulnerable/DataExposureVulnerability.java
+/Users/shaid/Library/CloudStorage/OneDrive-BlackDuckSoftware/Desktop/Altair/Acceptance/POLDELIVER-2866_Fail_PR/test_data/vulnerable-app/src/main/java/com/example/vulnerable/XSSVulnerability.java
+/Users/shaid/Library/CloudStorage/OneDrive-BlackDuckSoftware/Desktop/Altair/Acceptance/POLDELIVER-2866_Fail_PR/test_data/vulnerable-app/src/main/java/com/example/vulnerable/Application.java
+/Users/shaid/Library/CloudStorage/OneDrive-BlackDuckSoftware/Desktop/Altair/Acceptance/POLDELIVER-2866_Fail_PR/test_data/vulnerable-app/src/main/java/com/example/vulnerable/PathTraversalVulnerability.java
+/Users/shaid/Library/CloudStorage/OneDrive-BlackDuckSoftware/Desktop/Altair/Acceptance/POLDELIVER-2866_Fail_PR/test_data/vulnerable-app/src/main/java/com/example/vulnerable/CryptographyVulnerabilities.java
+/Users/shaid/Library/CloudStorage/OneDrive-BlackDuckSoftware/Desktop/Altair/Acceptance/POLDELIVER-2866_Fail_PR/test_data/vulnerable-app/src/main/java/com/example/vulnerable/SQLInjectionVulnerability.java
